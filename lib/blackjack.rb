@@ -50,7 +50,7 @@ def hit?(users_hand)
 end
 
 def invalid_command(num)
-  puts "Please enter a valid comment"
+  puts "Please enter a valid command"
   
 end
 
