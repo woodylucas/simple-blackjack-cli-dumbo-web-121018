@@ -60,5 +60,6 @@ end
 
 def runner
   welcome
+  users_hand =
 end
     
