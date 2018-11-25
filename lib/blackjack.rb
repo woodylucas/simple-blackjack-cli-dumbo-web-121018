@@ -50,6 +50,7 @@ def hit?(users_hand)
 end
 
 def invalid_command(num)
+  puts 
   
 end
 
