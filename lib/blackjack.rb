@@ -36,7 +36,7 @@ def hit?(users_hand)
 end
 
 def invalid_command(num)
-  # code invalid_command here
+  
 end
 
 #####################################################
