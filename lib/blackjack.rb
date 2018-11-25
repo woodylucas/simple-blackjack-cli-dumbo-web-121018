@@ -26,6 +26,7 @@ def initial_round
   first_card = deal_card 
   second_card = deal_card 
   sum = first_card + second_card 
+  puts "Ypur "
   return sum
 end
 
