@@ -40,6 +40,7 @@ def hit?(users_hand)
     user_input = get_user_input
   end 
   if user_input == 'h'
+    firs
 end
 
 def invalid_command(num)
