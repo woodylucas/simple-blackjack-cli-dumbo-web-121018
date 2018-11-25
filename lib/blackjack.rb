@@ -59,6 +59,6 @@ end
 #####################################################
 
 def runner
-  users_hand
+  users_hand = initial_round
 end
     
