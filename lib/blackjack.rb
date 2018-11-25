@@ -23,7 +23,6 @@ def end_game(total)
 end
 
 def initial_round(sum)
- 
 end
 
 def hit?
