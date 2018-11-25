@@ -37,7 +37,7 @@ def hit?(users_hand)
   if user_input != h && user_input != 's'
     invalid_command
     prompt_user 
-    user
+    user_input
 end
 
 def invalid_command(num)
