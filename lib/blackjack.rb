@@ -61,5 +61,6 @@ end
 def runner
   users_hand = initial_round
   card_total = users_hand
+  users_hand
 end
     
