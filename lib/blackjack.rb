@@ -42,11 +42,11 @@ def hit?(users_hand)
   
   if user_input == 'h'
     new_card = deal_card
-    user_hand += new_card
+    users_hand += new_card
     elsif user_input == 's'
-    user_hand
+    users_hand
   end 
-  user_hand
+  users_hand
 end
 
 def invalid_command(num)
