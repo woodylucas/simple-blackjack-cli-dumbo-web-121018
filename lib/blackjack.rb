@@ -41,6 +41,7 @@ def hit?(users_hand)
   end 
   if user_input == 'h'
     new_card = deal_card
+    user_hand 
 end
 
 def invalid_command(num)
